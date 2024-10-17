@@ -33,12 +33,9 @@ Design and Developed by: iqonicthemes.in
 :: More Useful Infomation
 :: Sofbox Specialities
 :: Counter
-:: Loved By Our Customers
 :: Affordable Price
 :: Meet the Team
-:: Compare Services
 :: Frequently Asked Questions
-:: Latest Blog Post
 :: Our clients
 :: Subscribe Our Newsletter
 :: Get in Touch
@@ -51,8 +48,6 @@ Design and Developed by: iqonicthemes.in
 :: jarallax
 :: TERMS OF SERVICE
 :: OWL Carousel
-:: Testimonial
-:: Pricing Table
 :: Feature
 :: Extra
 
@@ -739,7 +734,7 @@ header.dark.menu-sticky { padding: 10px 0; -webkit-box-shadow: 0px 0px 30px 0px 
 /* Banner style 02 */
 .iq-banner-02.style-2:after { display: none; }
 .iq-banner-02.style-2 .banner-img { margin-bottom: 0; }
-}
+
 
 /* Banner 3 */
 .iq-banner-03 { position: relative; overflow: hidden; }
@@ -1253,34 +1248,6 @@ to { -webkit-transform: rotateX(143deg) rotateY(50deg) rotateZ(0); transform: ro
 .iq-counter-1-box-2 .heading-title p { padding-left: 20%; padding-right: 20%; }
 
 /*---------------------------------------------------------------------
-                          Loved By Our Customers
------------------------------------------------------------------------*/
-.iq-loved-customers .owl-carousel .owl-item .item { padding: 10px 10px 20px; }
-.iq-client { position: relative; margin-top: 40px; padding: 30px; text-align: center; border: 1px solid #f2f2f2; -webkit-box-shadow: 0px 6px 16px 0px rgba(0, 0, 0, 0.06); -moz-box-shadow: 0px 6px 16px 0px rgba(0, 0, 0, 0.06); box-shadow: 0px 6px 16px 0px rgba(0, 0, 0, 0.06); }
-.iq-client:before { position: absolute; content: ""; bottom: -8px; left: 5%; width: 90%; background: #4ac4f3; height: 8px; display: inline-block; z-index: -1; }
-.iq-client .client-img { width: 80px; height: 80px; display: inline-block; border-radius: 90px; position: absolute; left: 50%; top: 0; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); }
-.client-info { margin-top: 30px; }
-.client-name:before { content: "\f10d"; font-family: FontAwesome; position: absolute; top: 15px; left: 15px; font-size: 44px; color: #f0f0f0; line-height: normal; }
-.client-name:after { content: "\f10e"; font-family: FontAwesome; position: absolute; bottom: 15px; right: 15px; font-size: 44px; color: #f0f0f0; line-height: normal; }
-.client-info p { line-height: 28px; }
-
-/*---------------------------------------------------------------------
-                        Affordable Price
------------------------------------------------------------------------*/
-.iq-pricing { position: relative; display: inline-block; width: 100%; border: 1px solid #ededed; background: #fff; }
-.iq-pricing .price-title { padding: 35px 20px; position: relative; }
-.iq-pricing .price-title:after { position: absolute; content: ""; left: 0; bottom: 0; background: url('../images/drive/09.png') no-repeat center bottom; background-size: 100%; height: 100%; width: 100%; }
-.iq-pricing.pricing-02 .price-title:after { position: absolute; content: ""; left: 0; bottom: 0; background: url('../images/drive/11.png') no-repeat center bottom; background-size: 100%; height: 100%; width: 100%; }
-.iq-pricing.pricing-03 .price-title:after { position: absolute; content: ""; left: 0; bottom: 0; background: url('../images/drive/12.png') no-repeat center bottom; background-size: 100%; height: 100%; width: 100%; }
-.iq-pricing .price-title h2 { font-family: 'Open Sans', sans-serif; line-height: 60px; font-size: 50px; position: relative; }
-.iq-pricing .price-title h2 small { font-size: 16px; color: #fff; vertical-align: super; padding: 0 5px; }
-.iq-pricing .price-title h2 small:first-child { font-size: 24px; }
-.iq-pricing .price-title span { letter-spacing: 6px; position: relative; }
-.iq-pricing ul { margin: 20px 0 0; }
-.iq-pricing ul li { line-height: 50px; }
-.iq-pricing .price-footer { padding: 30px 0; z-index: 9; position: relative; }
-
-/*---------------------------------------------------------------------
                           Meet the Team
 -----------------------------------------------------------------------*/
 .iq-team { position: relative; overflow: hidden; }
@@ -1312,16 +1279,6 @@ to { -webkit-transform: rotateX(143deg) rotateY(50deg) rotateZ(0); transform: ro
 .iq-team-2 .team-blog-two::before { background: #fcce68; }
 .iq-team-2 .team-blog-three::before { background: #6b82fe; }
 
-/*---------------------------------------------------------------------
-                          Compare Services
------------------------------------------------------------------------*/
-.iq-services-box .iq-icon i { font-size: 60px; float: left; margin-right: 20px; }
-.iq-services-box .services-content { display: table-cell; }
-.iq-progress-bar-text { font-size: 16px; text-transform: uppercase; color: #4ac4f3; position: relative; margin-top: 50px; }
-.iq-progress-bar-text span { float: right; background: #fff; border-radius: 4px; text-align: center; width: 40px; height: 30px; line-height: 30px; font-weight: 600; position: relative; bottom: 50px; right: 0; }
-.iq-progress-bar-text span:before { content: ""; position: absolute; left: 50%; margin-left: -7px; bottom: -7px; width: 0; height: 0; border-style: solid; border-width: 7px 7px 0 7px; border-color: #ffffff transparent transparent transparent; }
-.iq-progress-bar { background: #fff none repeat scroll 0 0; box-shadow: 0 0 0; height: 8px; margin: 0; position: relative; width: 100%; }
-.iq-progress-bar>span { background: #333 none repeat scroll 0 0; display: block; height: 100%; width: 0; }
 
 /*---------------------------------------------------------------------
                         Frequently Asked Questions
@@ -1339,20 +1296,6 @@ to { -webkit-transform: rotateX(143deg) rotateY(50deg) rotateZ(0); transform: ro
 .iq-objects-asked .iq-objects-02 { position: absolute; top: 37%; left: 35%; }
 .iq-objects-asked .iq-objects-03 { position: absolute; top: 28%; left: 13%; border: 25px solid #4ac4f3; border-radius: 900px; height: 350px; width: 350px; }
 
-/*---------------------------------------------------------------------
-                                Latest Blog Post
------------------------------------------------------------------------*/
-.iq-blog-box { -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.06); -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.06); box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.06); }
-.iq-blog-box .iq-blog-image { position: relative; }
-.iq-blog-box .iq-blog-image img { width: 100%; }
-.iq-blog-detail { padding: 20px 15px 15px; background: #fff; }
-.iq-blog-detail a, .iq-blog-detail .blog-title a h5 { color: #333; transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; }
-.iq-blog-detail a:hover, .iq-blog-detail .blog-title a:hover h5 { color: #4ac4f3; }
-.iq-blog-detail a.button { color: #fff; }
-.iq-blog-meta { margin: 15px 0 5px; border-top: 1px solid #ececec; padding-top: 15px; }
-.iq-blog-meta ul li { margin: 0 15px 0 0; padding: 0; font-size: 16px; }
-.iq-blog-meta ul li:last-child { margin: 0; }
-
 /*video vimeo and youtube*/
 .iq-bolg-video { height: 0; padding-bottom: 56.5%; position: relative; overflow: hidden; }
 .iq-bolg-video video, .iq-bolg-video embed, .iq-bolg-video iframe, .iq-bolg-video object { top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: none; }
@@ -1361,27 +1304,6 @@ to { -webkit-transform: rotateX(143deg) rotateY(50deg) rotateZ(0); transform: ro
 .media-wrapper video { width: 100%; height: 100%; display: inline-block; float: left; }
 .players { position: absolute; bottom: 15px; display: inline-block; left: 50%; transform: translateX(-50%); -webkit-transform: translateX(-50%); -o-transform: translateX(-50%); -ms-transform: translateX(-50%); -moz-transform: translateX(-50%); }
 
-/*---------------------------------------------------------------------
-                          Our clients
------------------------------------------------------------------------*/
-.iq-our-clients { border-top: 1px solid #ededed; }
-.iq-our-clients .owl-carousel .owl-nav { margin-top: -20px; }
-.iq-our-new { border-bottom: 1px solid #ededed; border-top: 1px solid #ededed; }
-
-/* clients Box*/
-.iq-clients-box { display: inline-block; border-top: 1px solid #f2f2f2; border-right: 1px solid #f2f2f2; }
-.iq-clients-box .clients .clients-brd { border: 1px solid #f2f2f2; }
-.iq-clients-box ul li { width: 33.33%; border-left: 1px solid #f2f2f2; border-bottom: 1px solid #f2f2f2; float: left; margin: 0; padding: 15px 0; text-align: center; }
-.iq-clients-box ul li.small { width: 25%; }
-.iq-clients-box ul li:nth-child(3n) { border-righ: 1px solid #f2f2f2; }
-
-/*---------------------------------------------------------------------
-                           Subscribe Our Newsletter
------------------------------------------------------------------------*/
-.iq-newsletter .form-group { width: 72%; }
-.iq-newsletter .form-control { border-radius: 4px; height: 50px; width: 100%; display: inline-block; padding-left: 25px; box-shadow: none; border: none; }
-.iq-newsletter .form-group { width: 72%; }
-.iq-newsletter .form-control { border-radius: 4px; height: 50px; width: 100%; display: inline-block; padding-left: 25px; box-shadow: none; border: none; }
 
 /*---------------------------------------------------------------------
                              Get in Touch
@@ -1941,30 +1863,7 @@ Tab
 .animation-shap { position: absolute; top: 0%; left: 0; }
 .animation-shap { position: absolute; top: 0%; left: 0; }
 .animation-shap .shap-bg, .animationnew-shap .shap-bg { text-align: center; align-content: center; align-items: center; justify-content: center; width: 515px; height: 515px; margin: auto; position: relative; background-color: #4ac4f3; background-image: linear-gradient(-45deg, #4ac4f3 0%, #4ac4f3 100%); border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%; box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2); animation: one-animated 5s infinite; overflow: hidden; }
-@keyframes one-animated {
-0% { border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%
-box-shadow:15px 15px 50px rgba(0, 0, 0, 0.2); }
-25% { border-radius: 58% 42% 75% 25% / 76% 46% 54% 24%; }
-50% { border-radius: 50% 50% 33% 67% / 55% 27% 73% 45%
-box-shadow:-10px -5px 50px rgba(0, 0, 0, 0.2); }
-75% { border-radius: 33% 67% 58% 42% / 63% 68% 32% 37%; }
-}
-@keyframes two-animated {
-0% { border-radius: 70% 30% 30% 70% / 70% 70% 30% 30%
-box-shadow:15px 15px 50px rgba(0, 0, 0, 0.2); }
-25% { border-radius: 40% 80% 30% 90% / 72% 65% 35% 28%; }
-50% { border-radius: 65% 35% 45% 55% / 22% 48% 52% 78%
-box-shadow:-10px -5px 50px rgba(0, 0, 0, 0.2); }
-75% { border-radius: 24% 76% 10% 90% / 44% 68% 32% 56%; }
-}
-@keyframes three-animated {
-0% { border-radius: 12% 88% 40% 40% / 20% 15% 85% 80%
-box-shadow:15px 15px 50px rgba(0, 0, 0, 0.2); }
-25% { border-radius: 72% 28% 30% 90% / 15% 46% 54% 85%; }
-50% { border-radius: 12% 88% 40% 40% / 20% 15% 85% 80%
-box-shadow:-10px -5px 50px rgba(0, 0, 0, 0.2); }
-75% { border-radius: 18% 82% 10% 90% / 24% 68% 32% 76%; }
-}
+
 .iq-badge { text-transform: uppercase; letter-spacing: 2px; font-size: 14px; font-weight: normal; padding: 10px; margin-bottom: 15px; }
 .iq-fancy-boxnew { padding: 40px 15px 25px 15px; overflow: hidden; position: relative; background: #fff; }
 .iq-fancy-boxnew .iq-icon { border-radius: 90px; display: inline-block; height: 86px; width: 86px; line-height: 86px; text-align: center; color: #fff; background: #4ac4f3; -webkit-transition: all 0.5s ease-out 0s; -moz-transition: all 0.5s ease-out 0s; -ms-transition: all 0.5s ease-out 0s; -o-transition: all 0.5s ease-out 0s; transition: all 0.5s ease-out 0s; }

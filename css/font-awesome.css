@@ -566,6 +566,9 @@
 .fa-key:before {
   content: "\f084";
 }
+.fa-tiktok:before{
+  content: "\e07b";
+}
 .fa-gears:before,
 .fa-cogs:before {
   content: "\f085";
@@ -631,6 +634,7 @@
 .fa-facebook:before {
   content: "\f09a";
 }
+
 .fa-github:before {
   content: "\f09b";
 }
@@ -1787,6 +1791,7 @@
 .fa-facebook-official:before {
   content: "\f230";
 }
+
 .fa-pinterest-p:before {
   content: "\f231";
 }
