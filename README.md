@@ -4,11 +4,9 @@ Welcome to softwareByVinicius's landing page.
 
 This website was made to show my company and it's services.
 
-We build custom  websites and moblie applications that boost your business, using technics like google metatags, responsive and great design to conquer your first clients. 
+We build custom websites and moblie applications to help, focusing in responsive and great design to increase your sales. 
 
-We also help to improve your own software to grow numbers of clients. 
-
-
+We also help to improve your software with SEO. 
 
 ## Authors
 
